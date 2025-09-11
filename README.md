@@ -1,7 +1,7 @@
-# RaidOn 🚐  
+# RaidOn   
 *A Student Ride Booking Platform*
 
-## 📌 Overview
+##  Overview
 In Andhra Pradesh, the government recently introduced a free bus scheme for women. While it’s a great initiative, it has unintentionally created problems for college students — most buses are now overcrowded and often don’t reach college stops on time.  
 
 I noticed many students, especially in my area, were struggling to reach classes on time because of this. That’s when the idea for **RaidOn** was born.
@@ -10,23 +10,23 @@ I noticed many students, especially in my area, were struggling to reach classes
 
 ---
 
-## ✨ Features
-- 🚌 **Pre-booked rides** — Students can book seats in advance.
-- 📍 **Pickup & destination selection** — Choose your stop and destination.
-- 💺 **Seat availability management** — Real-time seat count to avoid overbooking.
-- 📱 **Responsive UI** — Works smoothly on mobile and desktop.
-- 🤝 **Community benefit** — Supports students with reliable travel and local drivers with consistent income.
+##  Features
+-  **Pre-booked rides** — Students can book seats in advance.
+-  **Pickup & destination selection** — Choose your stop and destination.
+-  **Seat availability management** — Real-time seat count to avoid overbooking.
+-  **Responsive UI** — Works smoothly on mobile and desktop.
+-  **Community benefit** — Supports students with reliable travel and local drivers with consistent income.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 1. Students sign up or log in to the platform.  
 2. They select their pickup stop, destination, and available seats.  
 3. The system books their ride in advance and updates seat availability.  
@@ -34,7 +34,7 @@ I noticed many students, especially in my area, were struggling to reach classes
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 Building **RaidOn** taught me how to:
 - Handle real-world issues like seat availability and booking conflicts.
 - Design responsive user interfaces.
@@ -44,12 +44,12 @@ This project gave me confidence that even as students, we can solve practical is
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 *(Add screenshots or demo GIFs of your project UI here)*
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙ Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tejaswicsd/raidon-pro.git
