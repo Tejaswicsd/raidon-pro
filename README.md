@@ -19,7 +19,7 @@ I noticed many students, especially in my area, were struggling to reach classes
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
@@ -49,7 +49,7 @@ This project gave me confidence that even as students, we can solve practical is
 
 ---
 
-## ⚙ Setup Instructions
+## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tejaswicsd/raidon-pro.git
